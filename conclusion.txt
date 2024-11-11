@@ -1,0 +1,10 @@
+The conclusions that can be drawn from this dataset and trends from a year-wise and decade-wise breakdown of SAT scores are as follows:
+Throughout the latter end of the 1960s the Male and female verbal scores were at an all time high, trending downwards and plateauing towards the end of the 20th century.
+The Female verbal score was above the Male verbal scores until 1971 and never going back above the male score again.
+The male math score trended downwards for a lengthy period in between and then trends back up towards the initial values towards the end.
+The female score begins significantly below the male score but also follows the same trend as the males scores, eventually rising back up and ending one point above the highest earlier peak.
+The overall male score average follows a downward trend as well, reaching the lowest values in the early 80s and 90s before rising back up slightly, but not to the original values.
+The female average score follows a similar trend but on a lower level, following a similar rise and fall but the lowest values were during the early 1980s.
+The overall average values trend downwards post the 1970s and returns to similar levels in the early 21st century.
+Thus as all values reflect, the data indicates a slow but sure decline in average test scores in both males and females throughout the 80s and the 90s before a resurgence in the late 90s and early 2000s. The male scores also trend above the female scores with them following similar trajectories but at different levels.
+

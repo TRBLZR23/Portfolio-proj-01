@@ -1,0 +1,2 @@
+brainstorm: trends of different SAT scores wrt gender over the last 5 decades and diff in variance between verbal and math.
+The trends of various scores and the progression through the years.
